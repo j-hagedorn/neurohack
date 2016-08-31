@@ -1,0 +1,10 @@
+*.Rproj
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Remove DICOM and NIFFTI images
+*.dcm
+*.nii.gz
+*.txt
